@@ -5,11 +5,11 @@ there is some step you need to do.
 </p>
 
 <oi>
-<li>1.create s3 service</li>
-<li>2.setup the IAM</li>
-<li>3.config the access key at your settings.xml</li>
-<li>4.config the repository at your pom.xml</li>
-<li>5.use <a>mvn clean deploy</a> to push your artifact</li>
+<li>Create S3 service from AWS</li>
+<li>Setup the IAM you may need to take care the access policy</li>
+<li>Config the access key at your settings.xml</li>
+<li>Config the repository at your pom.xml</li>
+<li>Use <a>mvn clean deploy</a> to push your artifact</li>
 </oi>
 
 
