@@ -1,4 +1,4 @@
-<h1>fuck my life it take too much time</h1>
+<h1>HOWTO private repository via AWS S3</h1>
 
 <p>
 there is some step you need to do.
